@@ -6,11 +6,13 @@ Features
 React: A JavaScript library for building user interfaces.
 Tailwind CSS: A utility-first CSS framework for rapid UI development.
 Google Translate API: API used for translating messages to multiple languages.
-
+ deployment :
+ https://razer-task-chat-bot.vercel.app/ 
+ open the link 
 Installation:
 
 Clone the repository:
-git clone [https://github.com/yourusername/ai-chat-bot-interface.git](https://github.com/Jana-Eskeef/razerTaskChatBot)
+git clone (https://github.com/Jana-Eskeef/razerTaskChatBot)
 
 
 Install the dependencies:
